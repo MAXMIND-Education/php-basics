@@ -1,0 +1,29 @@
+[13-Jun-2023 09:53:16 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 09:56:52 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 09:57:01 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:02:09 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:02:20 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:02:43 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:02:43 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 23
+[13-Jun-2023 10:02:49 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:02:49 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 23
+[13-Jun-2023 10:04:13 UTC] PHP Warning:  A non-numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:04:13 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 23
+[13-Jun-2023 10:04:15 UTC] PHP Warning:  A non-numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:04:15 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 23
+[13-Jun-2023 10:08:44 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:08:44 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 21
+[13-Jun-2023 10:09:06 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:09:06 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 21
+[13-Jun-2023 10:09:19 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:09:19 UTC] PHP Warning:  settype() expects exactly 2 parameters, 1 given in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 21
+[13-Jun-2023 10:09:37 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:09:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:09:49 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:10:06 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:11:01 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:11:01 UTC] PHP Warning:  settype(): Invalid type in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 21
+[13-Jun-2023 10:11:27 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:11:36 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:11:37 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14
+[13-Jun-2023 10:14:39 UTC] PHP Notice:  A non well formed numeric value encountered in /home2/maxmindl/public_html/webdev_course/09-php/unit-16/tjc.php on line 14

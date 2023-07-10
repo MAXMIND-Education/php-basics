@@ -1,0 +1,1 @@
+[03-Jul-2023 13:14:22 UTC] PHP Warning:  file_get_contents(lorem.txt): failed to open stream: No such file or directory in /home2/maxmindl/public_html/webdev_course/09-php/unit-36/fs.php on line 36

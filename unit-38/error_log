@@ -1,0 +1,2 @@
+[06-Jul-2023 11:15:22 UTC] PHP Notice:  Undefined index: name in /home2/maxmindl/public_html/webdev_course/09-php/unit-38/welcome_get.php on line 4
+[06-Jul-2023 11:15:22 UTC] PHP Notice:  Undefined index: email in /home2/maxmindl/public_html/webdev_course/09-php/unit-38/welcome_get.php on line 5
