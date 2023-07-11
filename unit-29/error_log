@@ -1,5 +1,0 @@
-[26-Jun-2023 06:26:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function better_hello(), 2 passed in /home2/maxmindl/public_html/webdev_course/09-php/unit-29/fun_arg.php on line 30 and exactly 3 expected in /home2/maxmindl/public_html/webdev_course/09-php/unit-29/fun_arg.php:24
-Stack trace:
-#0 /home2/maxmindl/public_html/webdev_course/09-php/unit-29/fun_arg.php(30): better_hello('Greetings', 'Dilshan Maduran...')
-#1 {main}
-  thrown in /home2/maxmindl/public_html/webdev_course/09-php/unit-29/fun_arg.php on line 24
