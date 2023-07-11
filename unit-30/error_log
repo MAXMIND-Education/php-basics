@@ -1,6 +1,0 @@
-[26-Jun-2023 06:40:41 UTC] PHP Notice:  Undefined variable: sum in /home2/maxmindl/public_html/webdev_course/09-php/unit-30/fun_return.php on line 25
-[26-Jun-2023 06:40:56 UTC] PHP Notice:  Undefined variable: sum in /home2/maxmindl/public_html/webdev_course/09-php/unit-30/fun_return.php on line 25
-[26-Jun-2023 06:41:01 UTC] PHP Notice:  Undefined variable: sum in /home2/maxmindl/public_html/webdev_course/09-php/unit-30/fun_return.php on line 25
-[26-Jun-2023 06:58:35 UTC] PHP Notice:  Undefined variable: name in /home2/maxmindl/public_html/webdev_course/09-php/unit-30/fun_return.php on line 52
-[26-Jun-2023 06:58:35 UTC] PHP Notice:  Undefined variable: capital_name in /home2/maxmindl/public_html/webdev_course/09-php/unit-30/fun_return.php on line 53
-[26-Jun-2023 06:58:35 UTC] PHP Notice:  Undefined variable: name_length in /home2/maxmindl/public_html/webdev_course/09-php/unit-30/fun_return.php on line 54
